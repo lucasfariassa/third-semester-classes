@@ -1,5 +1,5 @@
-##PT-BR:
-###Proposta:
+## PT-BR:
+### Proposta:
 Crie um Tipo Abstrato de Dados (TAD) que represente os números
 racionais e que contenha as seguintes funcionalidade de:
 * (a) Criar racional;
@@ -7,8 +7,8 @@ racionais e que contenha as seguintes funcionalidade de:
 * (c) Multiplicar racionais;
 * (d) Testar igualdade.
 
-##ENG:
-###Proposal:
+## ENG:
+### Proposal:
 Create an Abstract Data Type (ADT) that represents rational numbers and contains the following functionality:
 
 * (a) Create rational;

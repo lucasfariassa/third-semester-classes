@@ -1,5 +1,5 @@
-##PT-BR:
-###Proposta:
+## PT-BR:
+### Proposta:
 Crie uma lista com os alunos da turma de Estrutura de Dados:
 * a) Adicionar o nome do professor no início da lista
 * b) Inserir os alunos na lista
@@ -7,8 +7,8 @@ Crie uma lista com os alunos da turma de Estrutura de Dados:
 * d) Remover o registro 5 da lista
 * e) Pesquisar se o seu nome está na lista
 
-##ENG:
-###Proposal:
+## ENG:
+### Proposal:
 Create a list of students in the Data Structure class:
 * a) Add the teacher's name at the top of the list
 * b) Add students to the list
