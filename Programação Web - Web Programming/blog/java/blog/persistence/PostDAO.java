@@ -20,4 +20,9 @@ public class PostDAO {
 		return posts;
 	}
 
+	public void save(Post post) {
+		posts.add(post);
+		
+	}
+
 }
