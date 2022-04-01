@@ -26,7 +26,6 @@ public class ListPostController extends HttpServlet {
 	
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		// TODO Auto-generated method stub
 		resp.sendRedirect("receive.jsp");
 		String tt = req.getParameter("title");
 		String tx = req.getParameter("text");

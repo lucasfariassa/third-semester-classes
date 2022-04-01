@@ -23,7 +23,7 @@ List<Post> list = (List<Post>) request.getAttribute("list");
 for (Post post : list) {%>
 	<article class="blog-post">
        <h2 class="blog-post-title"><%=post.getTitle()%></h2>
-       <p class="blog-post-meta"><a href="#">@<%=post.getAuthor()%></a><br></p>
+       <p class="blog-post-meta"><a href="https://www.google.com/search?q=reign+elenco&source=lmns&bih=657&biw=1366&rlz=1C1CHBD_pt-PTBR998BR998&hl=pt-BR&sa=X&ved=2ahUKEwilrOSf5vL2AhXoDLkGHQZYAp8Q_AUoAHoECAEQAA">@<%=post.getAuthor()%></a><br></p>
        <p><%out.print(post.getText());%> </p>
      </article>
 <%}%>
